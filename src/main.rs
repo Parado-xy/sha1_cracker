@@ -5,7 +5,7 @@
 //  breached, there is no way to recover the passwords and access the users’ data.
 //  Reality is quite different. Let’s imagine a scenario where we just breached such a website, and
 //  we now want to recover the credentials of the users in order to gain access to their accounts.
-
+ 
 // This is where a hash cracker is useful. A hash cracker is a program that will try many different hashes in order to find the original password.
 
 // Let's get some cli arguments.
