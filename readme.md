@@ -31,6 +31,7 @@ cargo run -- wordlist.txt 8d6e34f987851aa599257d3831a1af040886842f
 ```
 
 Output:
+
 ```
 Password Found: sunshine
 ```
